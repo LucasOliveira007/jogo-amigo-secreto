@@ -41,8 +41,7 @@ e o sistema realiza sorteios aleatórios para definir quem será o amigo secreto
    - Clique no botão de "Novo sorteio" para começar novamente.
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
-
+[demonstração do jogo](https://www.youtube.com/watch?v=zA3Pqe3Ja3k)
 
 ## Ajuda
 
